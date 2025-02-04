@@ -15,3 +15,4 @@ In this course, students are introduced to server-side web development with the 
 3. ASP.NET
 4. WebAPI
 5. GitHub
+6. Visual Studio 
