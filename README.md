@@ -11,7 +11,7 @@ In this course, students are introduced to server-side web development with the 
 ## Skills Set
 
 1. Web Applications
-2. #C
+2. C#
 3. ASP.NET
 4. WebAPI
 5. GitHub
